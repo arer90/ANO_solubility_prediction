@@ -1,0 +1,25 @@
+Outliers for delaney:
+Index: 54, SMILES: Clc1cccc(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl , Value: -7.185
+Index: 60, SMILES: Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl , Value: -8.304
+Index: 272, SMILES: CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2, Value: -7.44
+Index: 297, SMILES: Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl, Value: -8.468
+Index: 299, SMILES: CCCCCCCCCCCCCCCCCCCCCCCCCC, Value: -9.702
+Index: 432, SMILES: ClC1=C(Cl)C(Cl)(C(=C1Cl)Cl)C2(Cl)C(=C(Cl)C(=C2Cl)Cl)Cl, Value: -7.848
+Index: 482, SMILES: CC(C)C(Nc1ccc(cc1Cl)C(F)(F)F)C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2, Value: -8.057
+Index: 560, SMILES: Clc1ccc(c(Cl)c1Cl)c2ccc(Cl)c(Cl)c2Cl , Value: -7.192
+Index: 591, SMILES: CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2, Value: -7.129
+Index: 603, SMILES: Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl , Value: -9.589
+Index: 661, SMILES: Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl, Value: -7.898
+Index: 668, SMILES: Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl, Value: -7.343
+Index: 824, SMILES: Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)cc(Cl)c2Cl , Value: -7.261
+Index: 862, SMILES: Clc1ccc(cc1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl , Value: -7.425
+Index: 867, SMILES: CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC, Value: -7.117000000000001
+Index: 871, SMILES: Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl , Value: -7.178999999999999
+Index: 879, SMILES: Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl, Value: -7.898
+Index: 908, SMILES: Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl , Value: -7.343
+Index: 939, SMILES: OC(CC(c1ccccc1)c3c(O)c2ccccc2oc3=O)c4ccc(cc4)c5ccc(Br)cc5 , Value: -7.877000000000001
+Index: 965, SMILES: c1(C(=O)OCCCCCC(C)(C))c(C(=O)OCCCCCC(C)(C))cccc1, Value: -7.117000000000001
+Index: 968, SMILES: CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC , Value: -7.148
+Index: 1042, SMILES: Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl , Value: -7.343
+Index: 1097, SMILES: CCCCCCCCCCCCCCCCCCCC, Value: -7.576
+Index: 1120, SMILES: Clc1ccc(c(Cl)c1Cl)c2c(Cl)cc(Cl)c(Cl)c2Cl , Value: -7.746

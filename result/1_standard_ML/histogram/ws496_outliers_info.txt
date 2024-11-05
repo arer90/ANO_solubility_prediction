@@ -1,0 +1,15 @@
+Outliers for ws496:
+Index: 38, SMILES: c1ccc2cc3c(cc2c1)Cc1ccccc31, Value: -8.04
+Index: 40, SMILES: c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34, Value: -8.19
+Index: 43, SMILES: c1ccc2c(c1)ccc1c3ccccc3ccc21, Value: -8.06
+Index: 44, SMILES: c1cc2cccc3c4cccc5cccc(c(c1)c23)c45, Value: -8.8
+Index: 45, SMILES: c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56, Value: -9.03
+Index: 48, SMILES: c1ccc2c(c1)ccc1c3cccc4cccc(c34)c21, Value: -8.0
+Index: 49, SMILES: c1ccc2cc3c4cccc5cccc(c3cc2c1)c45, Value: -8.49
+Index: 111, SMILES: c1cc(c(c(c1c1cc(c(cc1Cl)Cl)Cl)Cl)Cl)Cl, Value: -8.32
+Index: 114, SMILES: c1c(cc(c(c1Cl)c1c(cc(cc1Cl)Cl)Cl)Cl)Cl, Value: -8.71
+Index: 116, SMILES: c1cc(c(c(c1c1ccc(c(c1Cl)Cl)Cl)Cl)Cl)Cl, Value: -8.01
+Index: 118, SMILES: c1cc(c(cc1Cl)c1c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl, Value: -8.94
+Index: 119, SMILES: c1c(c2cc(c(c(c2Cl)Cl)Cl)Cl)c(c(c(c1Cl)Cl)Cl)Cl, Value: -9.16
+Index: 120, SMILES: c1c(c2c(c(c(c(c2Cl)Cl)Cl)Cl)Cl)c(c(c(c1Cl)Cl)Cl)Cl, Value: -10.26
+Index: 121, SMILES: c1c(c(c(c2c(c(c(c(c2Cl)Cl)Cl)Cl)Cl)c(c1Cl)Cl)Cl)Cl, Value: -10.41
