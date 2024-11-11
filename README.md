@@ -63,7 +63,7 @@ This repository presents a novel approach to predicting aqueous solubility of dr
 7. **7_ANO_network_[struc_fea].ipynb**
    - Network architecture optimization based on optimal hyperparameters
 
-8. **7_Solubility_final_HPO_proving.ipynb**
+8. **7_Solubility_final_HPO_proving.ipynb** (Bug fixing...)
    - Performance validation of final ANO model
 
 9. **8_solubility_xai.ipynb**
@@ -79,14 +79,17 @@ This repository presents a novel approach to predicting aqueous solubility of dr
   - Comprehensive validation methods
 
 - **feature_search.py**
-  - Feature search implementation for ANO (used in 4_ANO_feature.ipynb)
+  - Feature search implementation for ANO
+    (used in 4_ANO_feature.ipynb)
 
 - **feature_selection.py**
-  - Feature selection implementation for ANO (used in 5_ANO_structure.ipynb, 6_ANO_network_[fea_struc].ipynb, 7_ANO_network_[struc_fea].ipynb)
+  - Feature selection implementation for ANO
+    (used in 5_ANO_structure.ipynb, 6_ANO_network_[fea_struc].ipynb, 7_ANO_network_[struc_fea].ipynb)
 
 - **learning_model.py**
   - ANO learning model implementation
   - Used in deep learning and feature optimization notebooks
+    (used in 3_ANO_with_feature_checker, 3_solubility_descriptor_deeplearning, 4_ANO_feature, 5_ANO_structure.ipynb, 6_ANO_network_[fea_struc].ipynb, 7_ANO_network_[struc_fea].ipynb)
 
 ## Key Innovations
 - 49 carefully selected chemical descriptors for target dataset
