@@ -4,15 +4,21 @@
 This repository presents a novel approach to predicting aqueous solubility of drug-like organic compounds using our Automated Network Optimizer (ANO) framework. By integrating advanced machine learning techniques with automated feature selection and hyperparameter optimization, we achieve state-of-the-art prediction accuracy for intrinsic solubility (logS).
 
 <div align="center">
-    <img src="result/res1.png" alt="Result 1" width="400" style="cursor: pointer;" onclick="window.open(this.src)"/>
+    <a href="./result_prior/res1.png" target="_blank">
+        <img src="./result_prior/res1.png" alt="Result 1" width="400" style="cursor: pointer;"/>
+    </a>
 </div>
 
 <div align="center">
-    <img src="result/res2.png" alt="Result 2" width="400" style="cursor: pointer;" onclick="window.open(this.src)"/>
+    <a href="./result_prior/res2.png" target="_blank">
+        <img src="./result_prior/res2.png" alt="Result 2" width="400" style="cursor: pointer;"/>
+    </a>
 </div>
 
 <div align="center">
-    <img src="result/res3.png" alt="Result 3" width="400" style="cursor: pointer;" onclick="window.open(this.src)"/>
+    <a href="./result_prior/res3.png" target="_blank">
+        <img src="./result_prior/res3.png" alt="Result 3" width="400" style="cursor: pointer;"/>
+    </a>
 </div>
 
 ## System Requirements
