@@ -1,0 +1,23 @@
+{
+  "stratified": true,
+  "solubility_distribution": {
+    "train": {
+      "very_poor": 78,
+      "poor": 175,
+      "moderate": 379,
+      "good": 333,
+      "excellent": 67
+    },
+    "test": {
+      "very_poor": 19,
+      "poor": 44,
+      "moderate": 95,
+      "good": 84,
+      "excellent": 17
+    }
+  },
+  "ks_statistic": 0.05953129208943162,
+  "ks_pvalue": 0.4353299694576272,
+  "range_overlap": 0.8734848420194686,
+  "entropy_ratio": 1.0471725587951062
+}

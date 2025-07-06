@@ -1,0 +1,11 @@
+AD Analysis Interpretation for delaney-processed
+Mode: Ultra-Strict (Regulatory)
+============================================================
+
+Mean Coverage: 0.824
+Coverage Range: [0.000, 1.000]
+Assessment: GOOD
+
+Recommendations:
+✓ Good AD definition
+• Consider minor refinements for regulatory use

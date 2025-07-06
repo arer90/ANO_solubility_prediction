@@ -72,24 +72,6 @@ This repository presents a novel approach to predicting aqueous solubility of dr
    - Correlation analysis between physicochemical features and logS
    - Implementation of Lipinski's Rule of 5
 
-### Core Python Modules
-- **basic_model.py**
-  - Foundation architecture for fingerprint analysis
-  - Modular design for easy extension
-  - Comprehensive validation methods
-
-- **feature_search.py**
-  - Feature search implementation for ANO
-    (used in 4_ANO_feature.ipynb)
-
-- **feature_selection.py**
-  - Feature selection implementation for ANO
-    (used in 5_ANO_structure.ipynb, 6_ANO_network_[fea_struc].ipynb, 7_ANO_network_[struc_fea].ipynb)
-
-- **learning_model.py**
-  - ANO learning model implementation
-  - Used in deep learning and feature optimization notebooks
-    (used in 3_ANO_with_feature_checker, 3_solubility_descriptor_deeplearning, 4_ANO_feature, 5_ANO_structure.ipynb, 6_ANO_network_[fea_struc].ipynb, 7_ANO_network_[struc_fea].ipynb)
 
 ## Key Innovations
 - 49 carefully selected chemical descriptors for target dataset
@@ -117,25 +99,69 @@ This repository presents a novel approach to predicting aqueous solubility of dr
     <img src="result/3_solubility_descriptor_deeplearning/r2_score_hu_individual.png" alt="Human Score" width="400" style="cursor: pointer;" onclick="window.open(this.src)"/>
 </div>
 
-## Model Availability
-Pre-trained models and complete results are available at:
-https://huggingface.co/arer90/ANO_solubility_prediction/tree/main
+
+## Obstacles in the Development Process 🚧
+---
+### ⭐ Folder "**__revised_research**" status
+
+> **Status notice (July 2025)**  
+> 🐞 Major coding bugs and lengthy cross-validation cycles have pushed back the final fixes.  
+> **New ETA:** **August 2025** (all notebooks fully integrated).
+
+#### ✅ Completed & Reproducible
+- Data search & collection 📗
+- Data preprocessing 🔄
+- Standard compound curation ⚙️
+- Fingerprint-based solubility benchmarking 🧬
+- Applied cross-validation🛰
+
+#### 🚧 Work in Progress
+- Deep-learning solubility model optimization 🧠  
+- Advanced ANO + CV upgrade optimization 🚀  
+
+Stable versions for every step are available in **`these codes`**, and live updates are tracked in **`__revised_research/`**.  
+All notebooks and documentation will be committed when the remaining bugs are fixed—**target: August 2025 +**.
+
+---
+
+## Upgrade Highlights
+
+- **Applicability-Domain Toolkit** 🛡️  
+  • Six regulatory AD checks (Leverage, k-NN distance, Euclidean centroid, descriptor range, DModX, Std. residual)  
+  • Consensus modes (Conservative / Majority / Weighted)  
+  • Multithreading, λ-regularised SVD, Williams-plot auto-export
+
+- **Data-Splitting Engine** ✂️  
+  • Ten split strategies (random, scaffold, chemical-space, cluster, physchem, activity-cliff, solubility-aware, time-series, ensemble, test-only)  
+  • RDKit integration, coverage metrics, JSON reports, CI-friendly folders
+
+- **Concurrent QSAR Pipeline** 🚀  
+  • Thread/process pools, CPU-core auto-detection  
+  • Memory monitoring, reliability scoring, adaptive sampling for big data
+
+- **Feature Calculation Engine** 🧬  
+  • 49 classical descriptors + 2048-bit Morgan fingerprints  
+  • On-disk caching, RDKit fall-backs, performance-mode down-sampling
+
+- **Statistical Analysis Suite** 📊  
+  • Basic stats, Shapiro / KS / JB / AD tests  
+  • IQR, Z-score, MAD outliers; descriptor–target correlations
+
+- **Model Performance Analyzer** ⚡  
+  • Clean-data guard rails (NaN/Inf, constant-feature fixes)  
+  • Sequential RF, XGBoost, LightGBM benchmarking with RMSE/MAE/R² tables & plots :contentReference
+
+- **Visualization Suite** 🖼️  
+  • High-resolution PNGs for AD coverage, meta-pharma insights, statistical & summary dashboards  
+  • Memory-aware plotting, consistent pathing across modules :contentReference
+
+> **Compatibility:** All upgraded components are drop-in; just update the import paths and rerun the pipeline.
+
+
+
 
 ## Version
-Current Version: 1.0.2 (2024.11)
+Current Version: 7.0.00 (2025.07)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Citation
-If you use this work in your research, please cite:
-
-```bibtex
-@article{ANO2024solubility,
-  title={Prediction of intrinsic solubility for drug-like organic compounds using Automated Network Optimizer (ANO) for physicochemical feature and hyperparameter optimization},
-  author={Chung, Young Kyu and Lee, Seung Jun and Lee, Jonggeun and Cho, Hyunwoo and Kim, Sung-Jin and Huh, June},
-  journal={ChemRxiv},
-  year={2024},
-  doi={10.26434/chemrxiv-2024-mp291}
-}
-```

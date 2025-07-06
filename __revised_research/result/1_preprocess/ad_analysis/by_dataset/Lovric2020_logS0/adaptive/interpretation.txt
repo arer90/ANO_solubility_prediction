@@ -1,0 +1,10 @@
+AD Analysis Interpretation for Lovric2020_logS0
+Mode: Context-Dependent
+============================================================
+
+Mean Coverage: 0.820
+Coverage Range: [0.000, 1.000]
+Assessment: EXCELLENT
+
+Recommendations:
+✓ Excellent AD definition for research

@@ -1,0 +1,18 @@
+============================================================
+EXPERIMENT SUMMARY
+============================================================
+
+Total experiments: 1008
+Total plots created: 21
+Datasets: Wang et al., Delaney ESOL, Lovric2020, Huuskonen
+Fingerprints: avalon, maccs, morgan
+Models: DNN, LightGBM, RandomForest, Ridge, SVR, XGBoost
+Split types: ac, cl, cs, en, pc, rm, sa
+
+Best Overall Result:
+  Dataset: Huuskonen
+  Model: XGBoost (cv)
+  Split: sa
+  Fingerprint: avalon
+  R² = 0.8481
+  RMSE = 0.8649

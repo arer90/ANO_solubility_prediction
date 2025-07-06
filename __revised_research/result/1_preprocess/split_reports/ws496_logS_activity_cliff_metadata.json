@@ -1,0 +1,12 @@
+{
+  "n_cliff_pairs": 20,
+  "cliff_analysis": {
+    "cliff_molecules_in_test": 28,
+    "cliff_molecules_in_train": 0,
+    "mean_sali_score": 26.487194061279297,
+    "max_sali_score": 101.39785766601562,
+    "cliff_coverage": 1.0,
+    "mean_cliff_similarity": 0.8566526241901616,
+    "mean_cliff_activity_diff": 1.9485000371932983
+  }
+}

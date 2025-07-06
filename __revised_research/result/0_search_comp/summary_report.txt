@@ -1,0 +1,37 @@
+================================================================================
+MATHEMATICAL OPTIMIZATION COMPARISON
+================================================================================
+
+Date: 2025-07-06 13:37:09
+Objective: Maximize f(x,y) with multiple peaks
+Search space: x,y ∈ [-3, 3]
+Evaluations per method: 50
+
+RESULTS:
+
+Bayesian (GP):
+  Best value: 3.7299
+  Location: (-0.012, -0.015)
+  Time: 5.661s
+
+Grid Search:
+  Best value: 3.7252
+  Location: (0.000, 0.000)
+  Time: 0.001s
+
+Optuna TPE:
+  Best value: 3.2277
+  Location: (-0.481, -0.514)
+  Time: 0.208s
+
+Random Search:
+  Best value: 2.4443
+  Location: (0.136, -0.435)
+  Time: 0.001s
+
+
+CONCLUSION:
+This comparison demonstrates how different optimization methods
+explore the search space and converge to the optimum.
+Model-based methods (Bayesian, TPE) typically perform better
+on complex functions with multiple peaks.

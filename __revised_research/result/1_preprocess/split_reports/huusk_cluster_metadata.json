@@ -1,0 +1,49 @@
+{
+  "n_clusters": "5",
+  "cluster_stats": {
+    "n_clusters": 5,
+    "cluster_sizes": [
+      500,
+      602,
+      54,
+      102,
+      33
+    ],
+    "cluster_target_stats": [
+      {
+        "mean": -1.762679934501648,
+        "std": 1.6682090759277344,
+        "size": 500
+      },
+      {
+        "mean": -2.9208970069885254,
+        "std": 1.7502126693725586,
+        "size": 602
+      },
+      {
+        "mean": -4.391481876373291,
+        "std": 0.8488737940788269,
+        "size": 54
+      },
+      {
+        "mean": -5.712549686431885,
+        "std": 2.281816005706787,
+        "size": 102
+      },
+      {
+        "mean": -2.7757577896118164,
+        "std": 0.799841046333313,
+        "size": 33
+      }
+    ],
+    "balance_score": 0.5159137482610707,
+    "separation_score": 0.09700647037334252
+  },
+  "distance_metrics": {
+    "mean_inter_distance": 4.740738142266663,
+    "min_inter_distance": 1.310427820762038,
+    "max_inter_distance": 10.120839050046706,
+    "median_inter_distance": 4.467854126609256,
+    "normalized_mean_distance": 0.8098497668354758
+  }
+}

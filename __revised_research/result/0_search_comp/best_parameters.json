@@ -1,0 +1,33 @@
+{
+  "Grid Search": {
+    "learning_rate": 0.01,
+    "max_depth": 5,
+    "n_estimators": 100,
+    "subsample": 0.8
+  },
+  "Random Search": {
+    "subsample": 0.6,
+    "n_estimators": 100,
+    "min_samples_split": 5,
+    "min_samples_leaf": 4,
+    "max_depth": 6,
+    "learning_rate": 0.01
+  },
+  "Bayesian (GP)": {
+    "learning_rate": 0.03768752680618878,
+    "max_depth": 2,
+    "min_samples_leaf": 15,
+    "min_samples_split": 3,
+    "n_estimators": 50,
+    "subsample": 0.5
+  },
+  "Optuna TPE": {
+    "n_estimators": 89,
+    "max_depth": 7,
+    "learning_rate": 0.013954500325889938,
+    "subsample": 0.6866291716128415,
+    "min_samples_split": 25,
+    "min_samples_leaf": 5,
+    "random_state": 42
+  }
+}

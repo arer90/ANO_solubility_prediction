@@ -1,0 +1,53 @@
+{
+  "optimal_weights": {
+    "chemical_space": 0.24580348103601646,
+    "physchem": 0.31595312909189177,
+    "activity_cliff": 0.13216358371830653,
+    "solubility_aware": 0.14375886986364467,
+    "uncertainty": 0.16232093629014072
+  },
+  "ensemble_analysis": {
+    "overall_agreement": 0.11723153595815516,
+    "pairwise_agreements": {
+      "random_time_series": 0.10666666666666667,
+      "random_scaffold": 0.1182108626198083,
+      "random_chemical_space_coverage": 0.10702341137123746,
+      "random_cluster": 0.1393188854489164,
+      "random_physchem": 0.12203389830508475,
+      "random_activity_cliff": 0.09602649006622517,
+      "random_solubility_aware": 0.13398692810457516,
+      "time_series_scaffold": 0.026392961876832845,
+      "time_series_chemical_space_coverage": 0.1296928327645051,
+      "time_series_cluster": 0.1986970684039088,
+      "time_series_physchem": 0.11073825503355705,
+      "time_series_activity_cliff": 0.12585034013605442,
+      "time_series_solubility_aware": 0.1377049180327869,
+      "scaffold_chemical_space_coverage": 0.0672782874617737,
+      "scaffold_cluster": 0.013123359580052493,
+      "scaffold_physchem": 0.1331168831168831,
+      "scaffold_activity_cliff": 0.10094637223974763,
+      "scaffold_solubility_aware": 0.08630952380952381,
+      "chemical_space_coverage_cluster": 0.16139240506329114,
+      "chemical_space_coverage_physchem": 0.12244897959183673,
+      "chemical_space_coverage_activity_cliff": 0.23134328358208955,
+      "chemical_space_coverage_solubility_aware": 0.11612903225806452,
+      "cluster_physchem": 0.12232415902140673,
+      "cluster_activity_cliff": 0.12576687116564417,
+      "cluster_solubility_aware": 0.1606060606060606,
+      "physchem_activity_cliff": 0.08196721311475409,
+      "physchem_solubility_aware": 0.10897435897435898,
+      "activity_cliff_solubility_aware": 0.09841269841269841
+    },
+    "diversity_score": 0.8827684640418448,
+    "method_contributions": {
+      "random": 0.21818181818181817,
+      "time_series": 0.2,
+      "scaffold": 0.21212121212121213,
+      "chemical_space_coverage": 0.24848484848484848,
+      "cluster": 0.24848484848484848,
+      "physchem": 0.8787878787878788,
+      "activity_cliff": 0.22424242424242424,
+      "solubility_aware": 0.3151515151515151
+    }
+  }
+}
