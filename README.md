@@ -96,7 +96,6 @@ For detailed dataset information and citations, see `data/DATASET_SOURCES.md`.
   - Ensemble split (en)
 - Performs comprehensive applicability domain (AD) analysis:
   - Three AD modes: strict, flexible, adaptive
-  - Multiple AD methods: leverage, similarity, combined approaches
   - Generates detailed AD reports and visualizations
   - Based on results in `result/1_preprocess_enhanced/`
 
