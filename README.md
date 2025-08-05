@@ -303,7 +303,7 @@ Results are saved in the `result/` directory with the following structure:
     <a href="./md_sources/cv_test_comparison.png" target="_blank">
         <img src="./md_sources/cv_test_comparison.png" alt="CV vs Test Comparison" width="1200" style="cursor: pointer;"/>
     </a>
-    <p><i>Cross-validation vs test set performance comparison showing excellent generalization</i></p>
+    <p><i>Cross-validation vs test set performance comparison</i></p>
 </div>
 
 ## Other Notebooks
@@ -327,7 +327,7 @@ Results are saved in the `result/` directory with the following structure:
     <a href="./md_sources/plots/1_standard_model_compare_sa_maccs.png" target="_blank">
         <img src="./md_sources/plots/1_standard_model_compare_sa_maccs.png" alt="Model Comparison" width="1200" style="cursor: pointer;"/>
     </a>
-    <p><i>Comparison of different machine learning models showing ANO's superior performance</i></p>
+    <p><i>Comparison of different machine learning models</i></p>
 </div>
 
 2. **2_standard_comp.ipynb**
@@ -363,8 +363,7 @@ If you use the ANO framework in your research, please cite:
   title={ANO: Adaptive Network Optimization for Molecular Solubility Prediction},
   author={Lee, Seungjin},
   year={2025},
-  url={https://github.com/leeseungjin/ANO_20250607}
-}
+url={https://github.com/arer90/ANO_solubility_prediction}
 ```
 
 ## License
