@@ -1,0 +1,114 @@
+================================================================================
+COMPREHENSIVE AD MODE COMPARISON REPORT
+================================================================================
+Generated: 2025-08-04 06:32:11
+Analysis Duration: 370.4s
+================================================================================
+
+MODE COMPARISON SUMMARY:
+--------------------------------------------------
+
+STRICT MODE:
+  Full Name: Ultra-Strict (Regulatory)
+  Reference: ICH M7 guideline (>90% target) - Regulatory requirement for mutagenicity assessment
+
+  Overall Statistics:
+    Mean Coverage: 0.900
+    Std Coverage: 0.097
+    Min Coverage: 0.606
+    Max Coverage: 1.000
+    Total Analyses: 27
+
+  Method Performance:
+    euclidean_distance: 0.988 ± 0.011
+    descriptor_range: 0.892 ± 0.066
+    knn_distance: 0.820 ± 0.097
+
+  Dataset Performance:
+    ws496_logS: 0.900 ± 0.097
+
+FLEXIBLE MODE:
+  Full Name: Scientific Consensus
+  Reference: Sahigara et al. (2012), Roy et al. (2015) - Practical AD implementation
+
+  Overall Statistics:
+    Mean Coverage: 0.906
+    Std Coverage: 0.096
+    Min Coverage: 0.606
+    Max Coverage: 1.000
+    Total Analyses: 27
+
+  Method Performance:
+    euclidean_distance: 0.991 ± 0.012
+    descriptor_range: 0.900 ± 0.073
+    knn_distance: 0.827 ± 0.092
+
+  Dataset Performance:
+    ws496_logS: 0.906 ± 0.096
+
+ADAPTIVE MODE:
+  Full Name: Context-Dependent
+  Reference: Application-specific thresholds based on literature consensus
+
+  Overall Statistics:
+    Mean Coverage: 0.900
+    Std Coverage: 0.097
+    Min Coverage: 0.606
+    Max Coverage: 1.000
+    Total Analyses: 27
+
+  Method Performance:
+    euclidean_distance: 0.988 ± 0.011
+    descriptor_range: 0.892 ± 0.066
+    knn_distance: 0.820 ± 0.097
+
+  Dataset Performance:
+    ws496_logS: 0.900 ± 0.097
+
+================================================================================
+RECOMMENDATIONS:
+--------------------------------------------------
+
+[X] STRICT mode does not meet regulatory requirements
+  Consider: Expanding training data or adjusting model scope
+
+[OK] FLEXIBLE mode recommended for research
+  Coverage: 0.906
+
+================================================================================
+COVERAGE STANDARDS BY MODE:
+--------------------------------------------------
+
+STRICT mode standards:
+  excellent: 0.90 - 0.95
+  good: 0.80 - 0.90
+  acceptable: 0.70 - 0.80
+  risky: 0.60 - 0.70
+  poor: 0.00 - 0.60
+  overfitted: 0.95 - 1.01
+
+FLEXIBLE mode standards:
+  excellent: 0.80 - 0.90
+  good: 0.70 - 0.80
+  acceptable: 0.60 - 0.70
+  moderate: 0.50 - 0.60
+  limited: 0.40 - 0.50
+  poor: 0.00 - 0.40
+  overfitted: 0.90 - 1.01
+
+ADAPTIVE mode standards:
+  research:
+    excellent: 0.70 - 0.85
+    good: 0.60 - 0.70
+    acceptable: 0.50 - 0.60
+    limited: 0.00 - 0.50
+  regulatory:
+    excellent: 0.85 - 0.95
+    good: 0.75 - 0.85
+    acceptable: 0.65 - 0.75
+    poor: 0.00 - 0.65
+  screening:
+    excellent: 0.60 - 0.80
+    good: 0.50 - 0.60
+    acceptable: 0.40 - 0.50
+    limited: 0.00 - 0.40

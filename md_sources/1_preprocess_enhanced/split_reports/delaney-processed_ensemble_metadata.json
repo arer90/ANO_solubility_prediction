@@ -1,0 +1,66 @@
+{
+  "optimal_weights": {
+    "chemical_space": 0.258955493252199,
+    "physchem": 0.23642334778006677,
+    "activity_cliff": 0.18063526042084735,
+    "solubility_aware": 0.2536657113060609,
+    "uncertainty": 0.07032018724082595
+  },
+  "ensemble_analysis": {
+    "overall_agreement": 0.11832214769686422,
+    "pairwise_agreements": {
+      "random_time_series": 0.1024390243902439,
+      "random_scaffold": 0.1431578947368421,
+      "random_chemical_space_coverage": 0.11633663366336634,
+      "random_cluster": 0.08788598574821853,
+      "random_physchem": 0.1111111111111111,
+      "random_activity_cliff": 0.13316582914572864,
+      "random_solubility_aware": 0.09767441860465116,
+      "time_series_scaffold": 0.17278617710583152,
+      "time_series_chemical_space_coverage": 0.1053921568627451,
+      "time_series_cluster": 0.10096153846153846,
+      "time_series_physchem": 0.0975609756097561,
+      "time_series_activity_cliff": 0.1275,
+      "time_series_solubility_aware": 0.12114014251781473,
+      "scaffold_chemical_space_coverage": 0.08617234468937876,
+      "scaffold_cluster": 0.0,
+      "scaffold_physchem": 0.14861995753715498,
+      "scaffold_activity_cliff": 0.17316017316017315,
+      "scaffold_solubility_aware": 0.13279678068410464,
+      "chemical_space_coverage_cluster": 0.18087855297157623,
+      "chemical_space_coverage_physchem": 0.10864197530864197,
+      "chemical_space_coverage_activity_cliff": 0.2064343163538874,
+      "chemical_space_coverage_solubility_aware": 0.1187648456057007,
+      "cluster_physchem": 0.10144927536231885,
+      "cluster_activity_cliff": 0.12285012285012285,
+      "cluster_solubility_aware": 0.10904872389791183,
+      "physchem_activity_cliff": 0.10049019607843138,
+      "physchem_solubility_aware": 0.09048723897911833,
+      "activity_cliff_solubility_aware": 0.11611374407582939
+    },
+    "diversity_score": 0.8816778523031358,
+    "method_contributions": {
+      "random": 0.19555555555555557,
+      "time_series": 0.2088888888888889,
+      "scaffold": 0.22666666666666666,
+      "chemical_space_coverage": 0.25333333333333335,
+      "cluster": 0.2,
+      "physchem": 0.43555555555555553,
+      "activity_cliff": 0.4177777777777778,
+      "solubility_aware": 0.6977777777777778
+    }
+  },
+  "method_contributions": {
+    "physchem": 224,
+    "activity_cliff": 225,
+    "solubility_aware": 246
+  },
+  "ks_statistic": 0.3063418235511259,
+  "ks_pvalue": 1.860039251631646e-15,
+  "range_overlap": 0.8141122575392343,
+  "entropy_ratio": 1.0128009249414225,
+  "train_target_mean": -2.7779746055603027,
+  "test_target_mean": -4.142240047454834,
+  "train_target_std": 1.939136028289795,
+  "test_target_std": 2.3309438228607178
+}

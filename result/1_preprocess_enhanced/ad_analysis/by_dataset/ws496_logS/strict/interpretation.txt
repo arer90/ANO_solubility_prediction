@@ -1,0 +1,11 @@
+AD Analysis Interpretation for ws496_logS
+Mode: Ultra-Strict (Regulatory)
+============================================================
+
+Mean Coverage: 0.900
+Coverage Range: [0.606, 1.000]
+Assessment: GOOD
+
+Recommendations:
+[OK] Good AD definition
+• Consider minor refinements for regulatory use

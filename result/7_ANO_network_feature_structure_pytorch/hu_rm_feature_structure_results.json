@@ -1,0 +1,83 @@
+{
+  "best_value": 0.9664217352867126,
+  "best_params": {
+    "n_layers": 3,
+    "hidden_dim_0": 256,
+    "hidden_dim_1": 64,
+    "hidden_dim_2": 64,
+    "dropout_rate": 0.4464704583099741,
+    "learning_rate": 0.0015930522616241021,
+    "batch_size": 64
+  },
+  "n_trials": 1,
+  "optimization_history": [
+    0.9664217352867126
+  ],
+  "trial_details": [
+    {
+      "trial_number": 0,
+      "value": 0.9664217352867126,
+      "params": {
+        "n_layers": 3,
+        "hidden_dim_0": 256,
+        "hidden_dim_1": 64,
+        "hidden_dim_2": 64,
+        "dropout_rate": 0.4464704583099741,
+        "learning_rate": 0.0015930522616241021,
+        "batch_size": 64
+      },
+      "cv_r2_mean": 0.9664217352867126,
+      "cv_r2_std": 0.01596892818653102,
+      "cv_rmse_mean": 0.36330935392869557,
+      "cv_rmse_std": 0.0914496761754388,
+      "cv_mse_mean": 0.1403567299246788,
+      "cv_mse_std": 0.06833696922990559,
+      "cv_mae_mean": 0.21285815834999083,
+      "cv_mae_std": 0.028279180505575017,
+      "best_r2": 0.984453022480011,
+      "best_rmse": 0.253530341428043,
+      "best_mse": 0.06427763402462006,
+      "best_mae": 0.17631284892559052,
+      "n_features": 3609,
+      "selected_descriptors": [
+        "MolLogP",
+        "MolMR",
+        "TPSA",
+        "NumHDonors",
+        "NumHeteroatoms",
+        "NumValenceElectrons",
+        "NOCount",
+        "RingCount",
+        "BalabanJ",
+        "kappa_Series[1-3]_ind",
+        "FractionCSP3",
+        "NumSpiroAtoms",
+        "PEOE_VSA_Series[1-14]_ind",
+        "SlogP_VSA_Series[1-12]_ind",
+        "MQNs",
+        "AUTOCORR2D",
+        "BCUT2D",
+        "RadiusOfGyration",
+        "NPR_series[1-2]_ind",
+        "RDF",
+        "WHIM",
+        "GETAWAY"
+      ],
+      "execution_time": 301.1973628997803,
+      "memory_used_mb": 93.984375,
+      "n_layers": 3,
+      "hidden_dims": [
+        256,
+        64,
+        64
+      ],
+      "dropout_rate": 0.4464704583099741,
+      "learning_rate": 0.0015930522616241021,
+      "batch_size": 64,
+      "test_r2": 0.8916692733764648,
+      "test_rmse": 0.6716128880416657,
+      "test_mse": 0.451063871383667,
+      "test_mae": 0.4998612105846405
+    }
+  ]
+}

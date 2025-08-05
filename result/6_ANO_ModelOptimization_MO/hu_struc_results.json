@@ -1,0 +1,13 @@
+{
+  "best_value": -0.8835711479187012,
+  "best_params": {
+    "hidden_dim": 512,
+    "dropout_rate": 0.3394633936788146,
+    "learning_rate": 0.0002051338263087451,
+    "batch_size": 64
+  },
+  "n_trials": 1,
+  "optimization_history": [
+    -0.8835711479187012
+  ]
+}

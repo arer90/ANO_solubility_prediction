@@ -1,0 +1,227 @@
+smiles,target
+CC(C)Br,-1.59
+Nc1cc[nH]c(=O)n1 ,-1.155
+O2c1ccccc1N(C)C(=O)c3cccnc23 ,-3.672
+CC(C)NC(=O)N1CC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2,-4.376
+CCC2NC(=O)c1cc(c(Cl)cc1N2)S(N)(=O)=O,-3.29
+ClC(Cl)(Cl)C(NC=O)N1C=CN(C=C1)C(NC=O)C(Cl)(Cl)Cl ,-4.19
+c2ccc1[nH]ccc1c2,-1.52
+Cc1ccc2cc3ccccc3cc2c1,-6.96
+CCC(O)C(C)C,-0.7
+OCC2OC(OC1(CO)OC(CO)C(O)C1O)C(O)C(O)C2O ,0.79
+CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,-3.09
+CC(C)I,-2.09
+Cc1cc2ccccc2cc1C,-4.72
+CCN2c1nc(C)cc(C(F)(F)F)c1NC(=O)c3cccnc23 ,-4.207
+Cn1cnc2n(C)c(=O)[nH]c(=O)c12 ,-2.523
+CCCC(C)C,-3.74
+COC(=O)c1ccccc1C(=O)OC,-1.66
+ClC(=C(Cl)C(=C(Cl)Cl)Cl)Cl,-4.92
+CCOP(=S)(OCC)SCCSCC,-4.23
+CCCCl,-1.47
+Cc1c2ccccc2c(C)c3ccccc13,-6.57
+CCCC(O)C=C,-0.59
+O=C1NC(=O)NC(=O)C1(CC)C(C)CC,-2.39
+Cc1ccc(O)cc1,-0.73
+O=C1NC(=O)NC(=O)C1(C(C)C)C(C)C,-2.766
+c1ccccc1C(O)C(O)c2ccccc2,-1.93
+CCCCCCC,-4.53
+CC(C)c1ccc(NC(=O)N(C)C)cc1,-3.536
+CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,-4.2
+CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,-2.518
+COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3,-3.88
+Oc1ccc2ccccc2c1,-2.28
+Cc1ccc(Cl)cc1,-3.08
+OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O ,-0.77
+CCCCCCCC=C,-5.05
+Clc1ccccc1N(=O)=O,-2.55
+COP(=S)(OC)Oc1ccc(SC)c(C)c1,-4.57
+O=C1NC(=O)NC(=O)C1(CC)CC=C,-1.614
+OCC(NC(=O)C(Cl)Cl)C(O)c1ccc(cc1)N(=O)=O,-2.111
+CCOP(=S)(OCC)Oc1cc(C)nc(n1)C(C)C,-3.64
+Fc1cccc(Br)c1,-2.67
+Nc1ccc(cc1)N(=O)=O,-2.37
+Clc1cc(Cl)cc(Cl)c1,-4.48
+Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl ,-6.57
+BrCBr,-1.17
+CC1(C)CON(Cc2ccccc2Cl)C1=O,-2.338
+Oc1ccccc1Cl,-1.06
+COc1ccc(NC(=O)N(C)C)cc1Cl,-2.564
+ClC(=C(Cl)Cl)Cl,-2.54
+COc1ccc(C=CC)cc1,-3.13
+Cn2cc(c1ccccc1)c(=O)c(c2)c3cccc(c3)C(F)(F)F,-4.445
+CCN(CC)c1c(cc(c(N)c1N(=O)=O)C(F)(F)F)N(=O)=O,-5.47
+CCN(CC)C(=O)C(=CCOP(=O)(OC)OC)Cl,0.523
+CCCC(=O)OC,-1.92
+Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,-7.92
+CCOC(=O)Nc2cccc(OC(=O)Nc1ccccc1)c2 ,-4.632
+ClC(Cl)Cl,-1.17
+CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-4.77
+CN2C(=O)CN=C(c1ccccc1)c3cc(Cl)ccc23,-3.754
+Nc1ccc(cc1)S(=O)(=O)c2ccc(N)cc2,-3.094
+CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,-3.37
+O=C2NC(=O)C1(CCCCCC1)C(=O)N2 ,-3.168
+COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,-4.805
+O=C1N(COC(=O)CCCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,-6.523
+Oc1ccc(Cl)cc1Cc2cc(Cl)ccc2O,-3.953
+CCC(C)C,-3.18
+COC(=O)c1ccccc1OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O,-0.742
+CCC(C)(C)C,-3.55
+CCc1ccc2ccccc2c1,-4.29
+C=CCC=C,-2.09
+COc1ccccc1OCC(O)COC(N)=O,-0.985
+CCCCCCCCCC(=O)OC,-4.69
+Cc1ccc(C)c(C)c1,-3.31
+CO,1.57
+OC3N=C(c1ccccc1)c2cc(Cl)ccc2NC3=O ,-3.952
+CCC1CCCCC1,-4.25
+Ic1cccc2ccccc12,-4.55
+CCN(CC)C(=S)SSC(=S)N(CC)CC,-4.86
+CCC(C)C(=O)OC2CC(C)C=C3C=CC(C)C(CCC1CC(O)CC(=O)O1)C23 ,-6.005
+CCC(CC)C=O,-1.52
+Brc1ccc(I)cc1,-4.56
+O2c1cc(C)ccc1N(C)C(=O)c3cc(N)cnc23 ,-3.043
+CC12CCC(CC1)C(C)(C)O2 ,-1.64
+C1CC=CC1,-2.1
+CCCCCCCCCCCCCC,-7.96
+Brc1ccc(Br)cc1,-4.07
+CC(=O)Nc1nnc(s1)S(N)(=O)=O ,-2.36
+CCc1ccccc1,-2.77
+CCCCCCCl,-3.12
+Brc1ccccc1Br,-3.5
+c2(Cl)c(Cl)c(Cl)c1nccnc1c2(Cl) ,-5.43
+Clc1ccc(Cl)c(c1)c2ccc(Cl)c(Cl)c2,-7.25
+COc1ccccc1,-1.85
+COP(=O)(OC)C(O)C(Cl)(Cl)Cl,-0.22
+O=C1NC(=O)C(=O)C(=O)N1 ,-1.25
+ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 ,-7.2
+ClCC(Cl)Cl,-1.48
+ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl,-6.307
+COP(=S)(OC)SCC(=O)N(C(C)C)c1ccc(Cl)cc1,-4.432
+O=C1NC(=O)C(=O)N1 ,-0.4
+CCN2c1cc(N(C)C)cc(C)c1NC(=O)c3cccnc23 ,-4.871
+Oc1cc(Cl)cc(Cl)c1Cl,-2.67
+NC(=O)N,0.96
+Clc1cc(Cl)c(Cl)c(Cl)c1,-4.63
+O=N(=O)c1ccc(cc1)N(=O)=O,-3.39
+CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)CCC1(C)C2C(=O)CC34C ,-4.21
+CCCCCCCCCCCCCCCCCCCCCCCCCC,-8.334
+c1cncnc1,1.1
+Brc1cc(Br)cc(Br)c1,-5.6
+CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC ,-5.115
+CCOC=O,0.15
+CCC(=O)OC,-0.14
+Oc2ccc1CCCCc1c2 ,-1.99
+CCNc1nc(NC(C)C)nc(SC)n1,-3.04
+C1CCC=CC1,-2.59
+CC(C)COC(=O)C,-1.21
+CC(C)O,0.43
+CC(=O)OC3(CCC4C2CCC1=CC(=O)CCC1C2CCC34C)C#C,-4.8
+CCCCCC(=O)C,-1.45
+O=N(=O)c1ccccc1N(=O)=O,-3.1
+Fc1ccccc1,-1.8
+CC(=O)OCC(COC(=O)C)OC(=O)C,-0.6
+CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12,-4.883
+CI,-1.0
+Oc1ccc(c(O)c1)c3oc2cc(O)cc(O)c2c(=O)c3O ,-3.083
+CCCCCCl,-2.73
+ICI,-2.34
+CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,-6.34
+CCOP(=S)(OCC)Oc1ccc(cc1)S(C)=O ,-2.3
+CCCOC(C)C,-1.34
+Clc1ccc(cc1)c2ccc(Cl)cc2 ,-6.56
+CN(C)C(=O)Nc2ccc(Oc1ccc(Cl)cc1)cc2,-4.89
+Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl,-7.68
+CC/C=C\C,-2.54
+CCCC(C)(O)CC,-0.98
+CCOCC,-0.09
+CC,-1.36
+CCOc1ccc(NC(N)=O)cc1,-2.17
+CCN2c1cc(Cl)ccc1NC(=O)c3cccnc23 ,-5.36
+CCCC(C)O,-0.29
+CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O,-2.016
+CC(OC(=O)Nc1cccc(Cl)c1)C#C,-2.617
+FC(F)(F)C(Cl)Br ,-1.71
+CCCCCCC(C)O,-2.09
+CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-3.592
+C1c2ccccc2c3cc4ccccc4cc13,-8.04
+CCCCCC=O,-1.3
+Cc1occc1C(=O)Nc2ccccc2,-3.3
+ClCCC#N ,-0.29
+Cc1cccc(C)c1O,-1.29
+CCCCC1(CC)C(=O)NC(=O)NC1=O,-1.661
+CC(O)c1ccccc1,-0.92
+COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,-4.522
+CCCCCC,-3.84
+OCC(O)C(O)C(O)C(O)CO ,0.06
+CCC(Br)(CC)C(=O)NC(N)=O,-2.68
+O=c2c(C3CCCc4ccccc43)c(O)c1ccccc1o2 ,-2.84
+CC(=O)CC(c1ccccc1)c3c(O)c2ccccc2oc3=O ,-3.893
+c1ccccc1SC,-2.39
+c1ccc2c3c(ccc2c1)c4cccc5cccc3c45,-8.0
+c1ccoc1,-0.82
+CCCCCC(=O)OC,-1.87
+c1cc(O)c(O)c2OCC3(O)CC4=CC(=O)C(O)=CC4=C3c21,-2.7
+c1ccnnc1,1.1
+CNC(=O)C(C)SCCSP(=O)(OC)(OC),1.144
+CC=C(C)C,-2.56
+Oc1c(Cl)cc(Cl)c(Cl)c1Cl,-3.1
+COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O ,-3.638
+CNC(=O)C=C(C)OP(=O)(OC)OC,0.651
+CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c2nc(Cl)cc(OC)n2,-4.576
+COC(=O)C=C,-0.22
+COC(=O)c1cc(O)c(O)c(O)c1 ,-1.24
+Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc3ccccc3C)cc1,-6.01
+CN(C)c1nc(nc(n1)N(C)C)N(C)C,-3.364
+CC(C)CCCO,-1.14
+Clc1ccc(cc1)c2cc(Cl)ccc2Cl ,-6.25
+CCC1(CC)C(=O)NC(=O)N(C)C1=O ,-2.23
+CCCCC(=O)OC3(C(C)CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)C(=O)CO,-4.71
+OC(C(=O)c1ccccc1)c2ccccc2,-2.85
+ClCCCCl,-1.62
+Oc1c(Cl)ccc(Cl)c1Cl,-2.64
+CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC ,-4.19
+CC(C)OC(=O)C,-0.55
+CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,-3.924
+Cc1c[nH]c2ccccc12 ,-2.42
+COc1cc(cc(OC)c1O)C6C2C(COC2=O)C(OC4OC3COC(C)OC3C(O)C4O)c7cc5OCOc5cc67,-3.571
+Cc1ccccc1C,-2.8
+Clc1ccc(cc1)N(=O)=O,-2.92
+Cc1ccc(cc1)S(=O)(=O)N,-1.74
+CC34CCC1C(CCC2=CC(=O)CCC12C)C3CCC4=O,-3.69
+CCC1(C(=O)NC(=O)NC1=O)C2=CCC3CCC2C3,-2.696
+CC(C)N(=O)=O,-0.62
+c3ccc2c(O)c1ccccc1cc2c3 ,-4.73
+CCCCCCCCC(=O)OCC,-3.8
+CS(=O)(=O)c1ccc(cc1)C(O)C(CO)NC(=O)C(Cl)Cl ,-2.154
+CCCCC(=O)CCCC,-2.58
+CC1CCCC1,-3.3
+CC1CC(C)C(=O)C(C1)C(O)CC2CC(=O)NC(=O)C2 ,-1.13
+CCNc1nc(Cl)nc(NCC)n1 ,-4.55
+CCCI,-2.29
+Cc1c2ccccc2c(C)c3ccc4ccccc4c13,-7.02
+C#C,0.29
+CC12CC2(C)C(=O)N(C1=O)c3cc(Cl)cc(Cl)c3,-4.8
+CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,-6.96
+Clc1cccc(Cl)c1c2ccccc2 ,-5.21
+CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CC(O)C5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,-4.081
+c1ccc2cnccc2c1,-1.45
+Nc1ncnc2n(ccc12)C3OC(CO)C(O)C3O ,-1.95
+CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl ,-5.67
+CCCCCCCCC=C,-5.51
+CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,-5.613
+Cc1ccc(cc1)c2ccccc2,-4.62
+CC2Nc1cc(Cl)c(cc1C(=O)N2c3ccccc3C)S(N)(=O)=O ,-3.78
+O=C(Nc1ccccc1)Nc2ccccc2,-3.15
+c1ccsc1,-1.33
+Nc1cccc2ccccc12,-1.92
+COC(=O)c1cccnc1 ,-0.46
+Clc1ccccc1Cl,-3.05
+CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2,-7.337
+OCC1OC(C(O)C1O)n2cnc3c(O)ncnc23,-1.23
+CN(C)C(=O)Nc1ccc(C)c(Cl)c1,-3.483
+C1CCOC1,0.49
+BrC(Br)Br,-1.91
+CCNc1nc(Cl)nc(n1)N(CC)CC,-4.06
+CCCCCC(C)O,-1.55
+Cc2cccc3sc1nncn1c23 ,-2.07

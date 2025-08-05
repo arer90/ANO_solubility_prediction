@@ -1,0 +1,58 @@
+{
+  "best_value": 0.9805521249771119,
+  "best_params": {
+    "n_layers": 3,
+    "hidden_dim_0": 256,
+    "hidden_dim_1": 64,
+    "hidden_dim_2": 64,
+    "dropout_rate": 0.4464704583099741,
+    "learning_rate": 0.0015930522616241021,
+    "batch_size": 64
+  },
+  "n_trials": 1,
+  "optimization_history": [
+    0.9805521249771119
+  ],
+  "trial_details": [
+    {
+      "trial_number": 0,
+      "value": 0.9805521249771119,
+      "params": {
+        "n_layers": 3,
+        "hidden_dim_0": 256,
+        "hidden_dim_1": 64,
+        "hidden_dim_2": 64,
+        "dropout_rate": 0.4464704583099741,
+        "learning_rate": 0.0015930522616241021,
+        "batch_size": 64
+      },
+      "cv_r2_mean": 0.9805521249771119,
+      "cv_r2_std": 0.002263287473637779,
+      "cv_rmse_mean": 0.2260094058157855,
+      "cv_rmse_std": 0.01036674382866363,
+      "cv_mse_mean": 0.051187720894813535,
+      "cv_mse_std": 0.004685246830127937,
+      "cv_mae_mean": 0.1698906421661377,
+      "cv_mae_std": 0.010350969218431684,
+      "best_r2": 0.9839736819267273,
+      "best_rmse": 0.20997230144176454,
+      "best_mse": 0.044088367372751236,
+      "best_mae": 0.16095565259456635,
+      "test_r2": 0.9831438064575195,
+      "test_rmse": 0.21095372949966676,
+      "test_mse": 0.04450147598981857,
+      "test_mae": 0.16033509373664856,
+      "n_layers": 3,
+      "hidden_dims": [
+        256,
+        64,
+        64
+      ],
+      "dropout_rate": 0.4464704583099741,
+      "learning_rate": 0.0015930522616241021,
+      "batch_size": 64,
+      "execution_time": 159.2133810520172,
+      "memory_used_mb": 5.078125
+    }
+  ]
+}

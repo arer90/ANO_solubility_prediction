@@ -1,0 +1,92 @@
+{
+  "n_cliff_pairs": 56,
+  "cliff_analysis": {
+    "cliff_molecules_in_test": 74,
+    "cliff_molecules_in_train": 0,
+    "mean_sali_score": 19.466495513916016,
+    "max_sali_score": 101.39785766601562,
+    "cliff_coverage": 1.0,
+    "mean_cliff_similarity": 0.8190018249539112,
+    "mean_cliff_activity_diff": 1.9889286756515503
+  },
+  "top_cliffs": [
+    {
+      "mol1_idx": 321,
+      "mol2_idx": 330,
+      "similarity": 0.9565217391304348,
+      "activity_diff": 4.510000228881836,
+      "sali": 101.39785766601562
+    },
+    {
+      "mol1_idx": 245,
+      "mol2_idx": 965,
+      "similarity": 0.9444444444444444,
+      "activity_diff": 5.450000286102295,
+      "sali": 96.36543273925781
+    },
+    {
+      "mol1_idx": 321,
+      "mol2_idx": 980,
+      "similarity": 0.9565217391304348,
+      "activity_diff": 3.379999876022339,
+      "sali": 75.99217987060547
+    },
+    {
+      "mol1_idx": 245,
+      "mol2_idx": 945,
+      "similarity": 0.9444444444444444,
+      "activity_diff": 4.240000247955322,
+      "sali": 74.97053527832031
+    },
+    {
+      "mol1_idx": 321,
+      "mol2_idx": 1103,
+      "similarity": 0.9565217391304348,
+      "activity_diff": 3.0299999713897705,
+      "sali": 68.1231689453125
+    },
+    {
+      "mol1_idx": 321,
+      "mol2_idx": 322,
+      "similarity": 0.9565217391304348,
+      "activity_diff": 2.319999933242798,
+      "sali": 52.16031265258789
+    },
+    {
+      "mol1_idx": 245,
+      "mol2_idx": 266,
+      "similarity": 0.9444444444444444,
+      "activity_diff": 2.8600001335144043,
+      "sali": 50.56974792480469
+    },
+    {
+      "mol1_idx": 321,
+      "mol2_idx": 961,
+      "similarity": 0.9565217391304348,
+      "activity_diff": 2.009999990463257,
+      "sali": 45.190616607666016
+    },
+    {
+      "mol1_idx": 361,
+      "mol2_idx": 922,
+      "similarity": 0.9629629629629629,
+      "activity_diff": 1.2999999523162842,
+      "sali": 34.177215576171875
+    },
+    {
+      "mol1_idx": 361,
+      "mol2_idx": 895,
+      "similarity": 0.9629629629629629,
+      "activity_diff": 1.2400000095367432,
+      "sali": 32.59980773925781
+    }
+  ],
+  "ks_statistic": 0.1389833179495261,
+  "ks_pvalue": 0.0006064697179394953,
+  "range_overlap": 0.7954545407337918,
+  "entropy_ratio": 0.9722051898537991,
+  "train_target_mean": -2.6429524421691895,
+  "test_target_mean": -3.182054281234741,
+  "train_target_std": 1.9757884740829468,
+  "test_target_std": 2.227215051651001
+}

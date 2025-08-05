@@ -1,0 +1,18 @@
+{
+  "split_point": 902,
+  "temporal_analysis": {
+    "train_period": "Molecules 0-901",
+    "test_period": "Molecules 902-1127",
+    "train_mean_target": -3.0749754905700684,
+    "test_mean_target": -2.9508273601531982,
+    "temporal_drift": 0.12414813041687012
+  },
+  "ks_statistic": 0.04457155191020937,
+  "ks_pvalue": 0.8469072069807999,
+  "range_overlap": 0.7362670835024053,
+  "entropy_ratio": 1.1268369994164107,
+  "train_target_mean": -3.0749754905700684,
+  "test_target_mean": -2.9508273601531982,
+  "train_target_std": 2.1124746799468994,
+  "test_target_std": 2.023352861404419
+}

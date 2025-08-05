@@ -1,0 +1,10 @@
+AD Analysis Interpretation for ws496_logS
+Mode: Scientific Consensus
+============================================================
+
+Mean Coverage: 0.906
+Coverage Range: [0.606, 1.000]
+Assessment: OVERFITTED
+
+Recommendations:
+[OK] Excellent AD definition for research

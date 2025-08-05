@@ -1,0 +1,10 @@
+AD Analysis Interpretation for delaney-processed
+Mode: Context-Dependent
+============================================================
+
+Mean Coverage: 0.755
+Coverage Range: [0.000, 0.987]
+Assessment: EXCELLENT
+
+Recommendations:
+[OK] Good practical coverage

@@ -1,0 +1,17 @@
+{
+  "n_scaffolds": 269,
+  "scaffold_analysis": {
+    "n_train_scaffolds": 268,
+    "n_test_scaffolds": 1,
+    "n_shared_scaffolds": 0,
+    "scaffold_overlap_ratio": 0.0
+  },
+  "ks_statistic": 0.37814047384737465,
+  "ks_pvalue": 1.3225142122646642e-29,
+  "range_overlap": 0.720789024012142,
+  "entropy_ratio": 1.0336998285416568,
+  "train_target_mean": -3.494767904281616,
+  "test_target_mean": -1.9124858379364014,
+  "train_target_std": 2.0263381004333496,
+  "test_target_std": 1.8222476243972778
+}

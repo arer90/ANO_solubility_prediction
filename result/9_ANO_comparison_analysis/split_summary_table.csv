@@ -1,0 +1,2 @@
+Split Type,Avg CV R²,Avg Test R²,Difference,Best CV R²,Avg Time (s),Total Experiments
+RM,0.9668 ± 0.0124,0.9657,0.0011,0.9807,384.28,16

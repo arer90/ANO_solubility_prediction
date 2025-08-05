@@ -1,0 +1,10 @@
+{
+  "best_value": -Infinity,
+  "best_params": {},
+  "n_trials": 3,
+  "optimization_history": [
+    -Infinity,
+    -Infinity,
+    -Infinity
+  ]
+}

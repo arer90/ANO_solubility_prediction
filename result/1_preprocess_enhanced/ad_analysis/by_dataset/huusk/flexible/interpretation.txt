@@ -1,0 +1,10 @@
+AD Analysis Interpretation for huusk
+Mode: Scientific Consensus
+============================================================
+
+Mean Coverage: 0.772
+Coverage Range: [0.000, 0.983]
+Assessment: GOOD
+
+Recommendations:
+[OK] Good practical coverage

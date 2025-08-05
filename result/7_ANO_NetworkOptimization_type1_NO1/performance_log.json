@@ -1,0 +1,57 @@
+{
+  "start_time": 1754312766.3168097,
+  "end_time": 1754312803.1151593,
+  "total_duration": 36.79834961891174,
+  "peak_memory_mb": 594.33203125,
+  "peak_cpu_percent": 23.9,
+  "dataset_times": {
+    "WS": 34.78574514389038,
+    "DE": 0.4765303134918213,
+    "LO": 0.4804513454437256,
+    "HU": 0.481367826461792
+  },
+  "dataset_memory": {
+    "WS": {
+      "initial_mb": 586.05078125,
+      "final_mb": 591.7109375,
+      "peak_mb": 591.7109375
+    },
+    "DE": {
+      "initial_mb": 592.01171875,
+      "final_mb": 593.9375,
+      "peak_mb": 593.9375
+    },
+    "LO": {
+      "initial_mb": 593.9375,
+      "final_mb": 594.328125,
+      "peak_mb": 594.328125
+    },
+    "HU": {
+      "initial_mb": 594.328125,
+      "final_mb": 594.33203125,
+      "peak_mb": 594.33203125
+    }
+  },
+  "dataset_cpu": {
+    "WS": {
+      "initial_percent": 0.0,
+      "final_percent": 23.9,
+      "peak_percent": 23.9
+    },
+    "DE": {
+      "initial_percent": 8.4,
+      "final_percent": 13.2,
+      "peak_percent": 13.2
+    },
+    "LO": {
+      "initial_percent": 11.6,
+      "final_percent": 16.6,
+      "peak_percent": 16.6
+    },
+    "HU": {
+      "initial_percent": 8.6,
+      "final_percent": 10.3,
+      "peak_percent": 10.3
+    }
+  }
+}
