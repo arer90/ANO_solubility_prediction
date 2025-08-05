@@ -66,10 +66,10 @@ ANO_20250607/
 ## Datasets
 
 ### Main Training Datasets
-- **ws496_logS.csv**: Water solubility dataset (496 compounds)
-- **delaney-processed.csv**: ESOL dataset (Delaney, 2004)
-- **huusk.csv**: Huuskonen aqueous solubility dataset (2000)
-- **Lovric2020_logS0.csv**: Intrinsic aqueous solubility dataset (2020)
+- **ws496_logS.csv**(ws): Water solubility dataset (496 compounds)
+- **delaney-processed.csv**(de): ESOL dataset (Delaney, 2004)
+- **huusk.csv**(hu): Huuskonen aqueous solubility dataset (2000)
+- **Lovric2020_logS0.csv**(lo): Intrinsic aqueous solubility dataset (2020)
 
 ### Test-Only Datasets
 - **FreeSolv.csv**: Hydration free energy database
@@ -268,28 +268,28 @@ Results are saved in the `result/` directory with the following structure:
     <a href="./md_sources/r2_score_ws_individual.png" target="_blank">
         <img src="./md_sources/r2_score_ws_individual.png" alt="WS Dataset Performance" width="800" style="cursor: pointer;"/>
     </a>
-    <p><i>R² scores for WS dataset across different ANO modules</i></p>
+    <p><i>R² scores for WS dataset with DNN</i></p>
 </div>
 
 <div align="center">
     <a href="./md_sources/r2_score_de_individual.png" target="_blank">
         <img src="./md_sources/r2_score_de_individual.png" alt="DE Dataset Performance" width="800" style="cursor: pointer;"/>
     </a>
-    <p><i>R² scores for DE dataset across different ANO modules</i></p>
+    <p><i>R² scores for DE dataset with DNN</i></p>
 </div>
 
 <div align="center">
     <a href="./md_sources/r2_score_lo_individual.png" target="_blank">
         <img src="./md_sources/r2_score_lo_individual.png" alt="LO Dataset Performance" width="800" style="cursor: pointer;"/>
     </a>
-    <p><i>R² scores for LO dataset across different ANO modules</i></p>
+    <p><i>R² scores for LO dataset with DNN</i></p>
 </div>
 
 <div align="center">
     <a href="./md_sources/r2_score_hu_individual.png" target="_blank">
         <img src="./md_sources/r2_score_hu_individual.png" alt="HU Dataset Performance" width="800" style="cursor: pointer;"/>
     </a>
-    <p><i>R² scores for HU dataset across different ANO modules</i></p>
+    <p><i>R² scores for HU dataset with DNN</i></p>
 </div>
 
 <div align="center">
