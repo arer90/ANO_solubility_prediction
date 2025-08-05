@@ -102,7 +102,7 @@ For detailed dataset information and citations, see `data/DATASET_SOURCES.md`.
 ### 2. Feature Optimization (`5_ANO_FeatureOptimization_FO.py`)
 - Automated feature selection from 51 molecular descriptor categories
 - Uses Optuna for Bayesian hyperparameter optimization
-- Fixed neural network architecture: 2727→1024→496→1
+- Fixed neural network architecture: 2727 (final fingerprint, morgan+maccs+avalon)→1024→496→1
 - **5-fold cross-validation** for robust evaluation
 - Outputs best feature subset for each dataset/split combination
 
