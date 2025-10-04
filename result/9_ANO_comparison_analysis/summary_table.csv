@@ -1,5 +1,0 @@
-Module Type,CV R² (mean±std),Test R²,Difference (CV-Test),CV RMSE,Test RMSE,Avg Time (s),Avg Features,Total Experiments
-Feature Only,0.9667 ± 0.0110,0.9722,-0.0054,0.3464 ± 0.0565,0.3223,518.92,3609,4
-Structure Only,0.9736 ± 0.0043,0.9716,0.0020,0.3181 ± 0.0267,0.3324,268.31,2727,4
-Feature→Structure,0.9653 ± 0.0154,0.9519,0.0135,0.3504 ± 0.0712,0.4010,387.29,3609,4
-Structure→Feature,0.9617 ± 0.0190,0.9671,-0.0054,0.3650 ± 0.0915,0.3425,362.60,3609,4

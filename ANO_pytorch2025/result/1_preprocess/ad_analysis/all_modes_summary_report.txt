@@ -1,0 +1,135 @@
+================================================================================
+COMPREHENSIVE AD MODE COMPARISON REPORT
+================================================================================
+Generated: 2025-09-23 18:54:48
+Analysis Duration: 778.3s
+================================================================================
+
+MODE COMPARISON SUMMARY:
+--------------------------------------------------
+
+STRICT MODE:
+  Full Name: Ultra-Strict (Regulatory)
+  Reference: ICH M7 guideline (>90% target) - Regulatory requirement for mutagenicity assessment
+
+  Overall Statistics:
+    Mean Coverage: 0.835
+    Std Coverage: 0.233
+    Min Coverage: 0.176
+    Max Coverage: 1.000
+    Total Analyses: 120
+
+  Method Performance:
+    knn_distance: 0.973 ± 0.128
+    euclidean_distance: 0.958 ± 0.021
+    descriptor_range: 0.574 ± 0.211
+
+  Dataset Performance:
+    Lipophilicity: 0.978 ± 0.016
+    AqSolDB: 0.978 ± 0.017
+    huusk: 0.868 ± 0.190
+    delaney-processed: 0.847 ± 0.191
+    Lovric2020_logS0: 0.837 ± 0.214
+    FreeSolv: 0.804 ± 0.246
+    ws496_logS: 0.772 ± 0.299
+    BigSolDB: 0.719 ± 0.384
+
+FLEXIBLE MODE:
+  Full Name: Scientific Consensus
+  Reference: Sahigara et al. (2012), Roy et al. (2015) - Practical AD implementation
+
+  Overall Statistics:
+    Mean Coverage: 0.835
+    Std Coverage: 0.233
+    Min Coverage: 0.176
+    Max Coverage: 1.000
+    Total Analyses: 120
+
+  Method Performance:
+    knn_distance: 0.973 ± 0.128
+    euclidean_distance: 0.958 ± 0.021
+    descriptor_range: 0.574 ± 0.211
+
+  Dataset Performance:
+    Lipophilicity: 0.978 ± 0.016
+    AqSolDB: 0.978 ± 0.017
+    huusk: 0.868 ± 0.190
+    delaney-processed: 0.847 ± 0.191
+    Lovric2020_logS0: 0.837 ± 0.214
+    FreeSolv: 0.804 ± 0.246
+    ws496_logS: 0.772 ± 0.299
+    BigSolDB: 0.719 ± 0.384
+
+ADAPTIVE MODE:
+  Full Name: Context-Dependent
+  Reference: Application-specific thresholds based on literature consensus
+
+  Overall Statistics:
+    Mean Coverage: 0.835
+    Std Coverage: 0.233
+    Min Coverage: 0.176
+    Max Coverage: 1.000
+    Total Analyses: 120
+
+  Method Performance:
+    knn_distance: 0.973 ± 0.128
+    euclidean_distance: 0.958 ± 0.021
+    descriptor_range: 0.574 ± 0.211
+
+  Dataset Performance:
+    Lipophilicity: 0.978 ± 0.016
+    AqSolDB: 0.978 ± 0.017
+    huusk: 0.868 ± 0.190
+    delaney-processed: 0.847 ± 0.191
+    Lovric2020_logS0: 0.837 ± 0.214
+    FreeSolv: 0.804 ± 0.246
+    ws496_logS: 0.772 ± 0.299
+    BigSolDB: 0.719 ± 0.384
+
+================================================================================
+RECOMMENDATIONS:
+--------------------------------------------------
+
+[X] STRICT mode does not meet regulatory requirements
+  Consider: Expanding training data or adjusting model scope
+
+[OK] FLEXIBLE mode recommended for research
+  Coverage: 0.835
+
+================================================================================
+COVERAGE STANDARDS BY MODE:
+--------------------------------------------------
+
+STRICT mode standards:
+  excellent: 0.90 - 0.95
+  good: 0.80 - 0.90
+  acceptable: 0.70 - 0.80
+  risky: 0.60 - 0.70
+  poor: 0.00 - 0.60
+  overfitted: 0.95 - 1.01
+
+FLEXIBLE mode standards:
+  excellent: 0.80 - 0.90
+  good: 0.70 - 0.80
+  acceptable: 0.60 - 0.70
+  moderate: 0.50 - 0.60
+  limited: 0.40 - 0.50
+  poor: 0.00 - 0.40
+  overfitted: 0.90 - 1.01
+
+ADAPTIVE mode standards:
+  research:
+    excellent: 0.70 - 0.85
+    good: 0.60 - 0.70
+    acceptable: 0.50 - 0.60
+    limited: 0.00 - 0.50
+  regulatory:
+    excellent: 0.85 - 0.95
+    good: 0.75 - 0.85
+    acceptable: 0.65 - 0.75
+    poor: 0.00 - 0.65
+  screening:
+    excellent: 0.60 - 0.80
+    good: 0.50 - 0.60
+    acceptable: 0.40 - 0.50
+    limited: 0.00 - 0.40

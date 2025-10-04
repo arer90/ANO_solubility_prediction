@@ -1,0 +1,11 @@
+AD Analysis Interpretation for Lovric2020_logS0
+Mode: Context-Dependent
+============================================================
+
+Mean Coverage: 0.837
+Coverage Range: [0.297, 1.000]
+Assessment: EXCELLENT
+
+Recommendations:
+[OK] Good adaptive coverage
+* Suitable for most contexts

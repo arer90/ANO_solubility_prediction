@@ -1,0 +1,11 @@
+AD Analysis Interpretation for huusk
+Mode: Context-Dependent
+============================================================
+
+Mean Coverage: 0.868
+Coverage Range: [0.184, 1.000]
+Assessment: UNKNOWN
+
+Recommendations:
+[OK] Excellent adaptive AD definition
+[OK] Context-aware for multiple applications

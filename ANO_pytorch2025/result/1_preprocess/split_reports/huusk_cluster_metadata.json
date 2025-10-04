@@ -1,0 +1,57 @@
+{
+  "n_clusters": "5",
+  "cluster_stats": {
+    "n_clusters": 5,
+    "cluster_sizes": [
+      500,
+      602,
+      54,
+      102,
+      33
+    ],
+    "cluster_target_stats": [
+      {
+        "mean": -1.762679934501648,
+        "std": 1.6682090759277344,
+        "size": 500
+      },
+      {
+        "mean": -2.9208970069885254,
+        "std": 1.7502126693725586,
+        "size": 602
+      },
+      {
+        "mean": -4.391481876373291,
+        "std": 0.8488737940788269,
+        "size": 54
+      },
+      {
+        "mean": -5.712549686431885,
+        "std": 2.281816005706787,
+        "size": 102
+      },
+      {
+        "mean": -2.7757577896118164,
+        "std": 0.799841046333313,
+        "size": 33
+      }
+    ],
+    "balance_score": 0.5159137482610707,
+    "separation_score": 0.09700647037362267
+  },
+  "distance_metrics": {
+    "mean_inter_distance": 4.740738142266662,
+    "min_inter_distance": 1.3104278207620397,
+    "max_inter_distance": 10.120839050046696,
+    "median_inter_distance": 4.467854126609261,
+    "normalized_mean_distance": 0.8098497668354757
+  },
+  "ks_statistic": 0.18451123487612828,
+  "ks_pvalue": 4.3313675207429855e-10,
+  "range_overlap": 0.7674242281593566,
+  "entropy_ratio": 0.9962011121415749,
+  "train_target_mean": -2.593231678009033,
+  "test_target_mean": -2.9133543968200684,
+  "train_target_std": 2.301065683364868,
+  "test_target_std": 1.7141578197479248
+}

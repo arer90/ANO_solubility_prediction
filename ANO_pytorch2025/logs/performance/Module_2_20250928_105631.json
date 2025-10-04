@@ -1,0 +1,24 @@
+{
+  "module": "Module_2",
+  "task": "Standard ML Comparison",
+  "timestamp": "2025-09-28T10:56:31.291823",
+  "elapsed_time_seconds": 396.73620986938477,
+  "elapsed_time_formatted": "6.61 minutes",
+  "memory_used_gb": 3.23638916015625,
+  "peak_memory_gb": 3.609100341796875,
+  "avg_cpu_percent": 5.55,
+  "gpu_memory_used_gb": 0,
+  "gpu_peak_memory_gb": 0,
+  "system_info": {
+    "platform": "Darwin",
+    "platform_version": "Darwin Kernel Version 24.6.0: Mon Jul 14 11:30:40 PDT 2025; root:xnu-11417.140.69~1/RELEASE_ARM64_T6041",
+    "processor": "arm",
+    "cpu_count": 14,
+    "total_memory_gb": 36.0,
+    "python_version": "3.13.7",
+    "torch_version": "2.8.0",
+    "gpu_available": true,
+    "gpu_type": "MPS",
+    "gpu_name": "Apple Silicon GPU"
+  }
+}

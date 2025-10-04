@@ -1,0 +1,20 @@
+ANO Framework - Preprocess Log
+Started: 2025-09-23 18:41:50
+============================================================
+[18:41:50] [INFO] [MONITOR] Performance monitoring started
+[18:41:50] [INFO] [MONITOR] Initial memory: 406.72 MB
+[18:41:50] [INFO] ANO Data Preprocessing Functions
+[18:41:50] [INFO] ============================================================
+[18:41:50] [INFO] [START] Running in FULL mode
+[18:41:50] [INFO] [DATA] Test size: 20.0%
+[18:41:50] [INFO] [SEARCH] AD mode: all
+[18:41:50] [INFO] [DIR] Output directory: result/1_preprocess
+[18:41:50] [INFO] [RANDOM] Random seed: 42
+[18:41:50] [INFO] [SAMPLES] Max samples: 30000
+[18:41:50] [INFO] [DESCRIPTORS] Mode: fast
+[18:41:50] [INFO] [DESCRIPTORS] Using 7 descriptors
+[18:54:48] [INFO] [OK] Processing completed successfully!
+[18:54:48] [INFO] [MONITOR] Performance monitoring stopped
+[18:54:48] [INFO] [MONITOR] Duration: 12m 58.79s
+[18:54:48] [INFO] [MONITOR] Memory usage - Initial: 406.72 MB, Max: 6136.98 MB, Final: 6136.98 MB
+[18:54:48] [INFO] [MONITOR] Memory delta: +5730.27 MB

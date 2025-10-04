@@ -1,0 +1,29 @@
+============================================================
+QSAR ANALYSIS SUMMARY
+============================================================
+
+Analysis Date: 2025-09-23 18:54:48
+AD Mode: Context-Dependent
+Reliability Scoring: Disabled
+
+Datasets Analyzed:
+  - Lovric2020_logS0: 829 samples
+  - FreeSolv: 642 samples (test-only)
+  - ws496_logS: 496 samples
+  - delaney-processed: 1,128 samples
+  - huusk: 1,291 samples
+  - Lipophilicity: 4,200 samples (test-only)
+  - AqSolDB: 9,982 samples (test-only)
+  - BigSolDB: 54,273 samples (test-only)
+
+Total Analysis Time: 778.18 seconds
+Peak Memory Usage: 6177.77 MB
+
+Context-Dependent Standards Applied:
+Reference: Application-specific thresholds based on literature consensus
+
+Coverage Quality Thresholds:
+  - Excellent: 70% - 85%
+  - Good: 60% - 70%
+  - Acceptable: 50% - 60%
+  - Limited: 0% - 50%

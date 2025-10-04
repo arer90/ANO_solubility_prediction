@@ -1,0 +1,13 @@
+{
+  "code_num": 1,
+  "code_name": "preprocess",
+  "start_time": 1758620510.041229,
+  "end_time": 1758621288.830642,
+  "duration_seconds": 778.7894129753113,
+  "duration_formatted": "12m 58.79s",
+  "initial_memory_mb": 406.71875,
+  "final_memory_mb": 6136.984375,
+  "max_memory_mb": 6136.984375,
+  "memory_delta_mb": 5730.265625,
+  "timestamp": "2025-09-23T18:54:48.830661"
+}
