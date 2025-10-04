@@ -5,5 +5,5 @@
 *.db
 *.pkl
 *.log
-/previous_version
-/logs
+previous_version/
+**/logs/
